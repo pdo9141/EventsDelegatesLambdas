@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesAndEvents", "Deleg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicatingBetweenControls", "CommunicatingBetweenControls\CommunicatingBetweenControls.csproj", "{632E6295-3286-4CB7-9A82-6E9A52E6FC96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadsAndDelegates", "ThreadsAndDelegates\ThreadsAndDelegates.csproj", "{4DC90A05-B1A6-4ACF-ACA3-998BA987424A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{632E6295-3286-4CB7-9A82-6E9A52E6FC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{632E6295-3286-4CB7-9A82-6E9A52E6FC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{632E6295-3286-4CB7-9A82-6E9A52E6FC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC90A05-B1A6-4ACF-ACA3-998BA987424A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC90A05-B1A6-4ACF-ACA3-998BA987424A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC90A05-B1A6-4ACF-ACA3-998BA987424A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC90A05-B1A6-4ACF-ACA3-998BA987424A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
